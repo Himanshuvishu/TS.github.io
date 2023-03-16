@@ -1,0 +1,27 @@
+
+
+.nav-link{
+    color: white;
+    font-size: bolder;
+    
+}
+.nav-link:hover{
+    color:rgb(255, 174, 0);
+
+}
+.navbar-brand{
+    font-size: 30px;
+}
+hr{
+    padding: 0;
+    margin: 0;
+    /* color:rgb(255, 174, 0); ; */
+}
+.cardhe{
+    font-weight: bolder;
+    text-align: center;
+    margin:1em;
+}
+.btn-m{
+    margin-bottom: 1em;
+}
